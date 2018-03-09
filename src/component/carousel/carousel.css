@@ -1,3 +1,7 @@
+.wrapBlock{
+width: 100%;
+display: block;
+}
 .Carousel{
-	
+	margin-top: 0px;
 }

@@ -3,9 +3,78 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+.Bold{
+	font-weight: bold;
+}
+.CursorPoint{
+	cursor: pointer;
+}
+/*TextAlign*/
+.TextAlign_C{
+	text-align: center;
+}
+/*Color*/
+.Color_White{
+	color: #fff;
+}
+.Color_DarkBlue{
+	color: rgb(68,114,196);
+}
+/*Backgorund*/
+.Bg_DarkBlue{
+	background-color: rgb(68,114,196);
+}
+.Bg_LightBlck{
+	background-color: rgb(32,32,32);
+}
+.Bg_DarkGray{
+	background-color: rgb(48,48,48);
+}
+.Bg_Blue{
+	background-color: rgb(207,213,234);
+}
+.Bg_LightBlue{
+	background-color: rgb(233,235,224);
+}
+
+/*Padding*/
 .PaddingTB_10{
-	padding: 10px;
+	padding: 10px auto;
+}
+.PaddingT_10{
+	padding-top:10px;
+}
+.PaddingB_10{
+	padding-bottom:10px;
+}
+.PaddingT_40{
+	padding-top:40px;
+}
+.PaddingB_40{
+	padding-bottom:40px;
+}
+.PaddingTB_40{
+	padding: 40px auto;
 }
 .PaddingLR_20{
-	padding: 20px;
+	padding: 0 20px;
 }
+.PaddingLR_40{
+	padding: 0 40px;
+}
+.Padding_40{
+	padding:40px;
+}
+
+/*Margin*/
+.MarginC{
+	display: block;
+	margin: 0px auto;
+}
+.MarginTB_40{
+	margin: 40px auto;
+}
+.MarginT_40{
+	margin-top: 40px;
+}
+

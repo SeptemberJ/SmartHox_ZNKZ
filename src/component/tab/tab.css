@@ -1,0 +1,6 @@
+.Bg_Block:nth-of-type(odd){
+	background-color: rgb(32,32,32);
+}
+.Bg_Block:nth-of-type(even){
+	background-color: rgb(48,48,48);
+}
